@@ -5,3 +5,5 @@ game, such as setting equality between coordinates that do not contain a neighbo
 based on the neighboring coordinates.When a coordinate is selected and there are no mines `(coordinates == 0)`, the game will automatically queue those
 coordinates into the actions just like a normal minesweeper game would. And when there are no more coordinates(squares) that is 0, it'll ask for 
 user to input another coordinate until all coordinates except the ones with mines have been cleared. 
+
+![minesweeper](minesweeper.png)
