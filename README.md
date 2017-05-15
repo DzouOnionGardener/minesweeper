@@ -7,3 +7,33 @@ coordinates into the actions just like a normal minesweeper game would. And when
 user to input another coordinate until all coordinates except the ones with mines have been cleared. 
 
 ![minesweeper](minesweeper.png)
+
+
+
+
+
+
+
+installing OpenAI-gym
+
+[openai-gym](https://github.com/openai/gym)
+
+==
+
+`sudo apt-get update`
+
+`sudo apt-get upgrade`
+
+`sudo apt-get install python-pip python-dev build-essential python-scipy python-numpy`
+
+`sudo pip install --upgrade pip`
+
+`apt-get install swig python-pygame git cmake`
+
+`sudo apt-get install zlib1g-dev libjpeg-dev xvfb libav-tools xorg-dev python-opengl libboost-all-dev libsdl2-dev`
+
+`pip install pyglet`
+
+`pip install box2d`
+
+`pip install gym[all]`
